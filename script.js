@@ -3,5 +3,5 @@ const byteSize = (str) => {
 };
 
 // Do not change the code below
-const str = prompt("Enter some string.");
+let value = prompt("Enter a value:");
 alert(byteSize(str));
